@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1912" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,7 +24,7 @@
             <mxGeometry x="23" y="137" width="39" height="28" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:14.11px;font-family:微软雅黑;color:#19191a;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;1.1拍照识别&lt;/font&gt;&lt;/div&gt;" tags="背景" id="NK0cSeMYXExBft4Ilqiq-79">
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;br&gt;&lt;/div&gt;" tags="背景" id="NK0cSeMYXExBft4Ilqiq-79">
           <mxCell style="vsdxID=65559;edgeStyle=none;startArrow=none;endArrow=block;startSize=9;endSize=3;strokeWidth=2;strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;align=left;" edge="1" parent="1">
             <mxGeometry relative="1" as="geometry">
               <mxPoint x="5" as="offset" />
@@ -34,6 +34,11 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
+        <mxCell id="NK0cSeMYXExBft4Ilqiq-116" value="&lt;span style=&quot;color: rgb(25, 25, 26); font-family: 微软雅黑; font-size: 14.11px; text-align: left;&quot;&gt;1.1拍照识别&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NK0cSeMYXExBft4Ilqiq-79">
+          <mxGeometry x="0.0186" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;br&gt;&lt;/div&gt;" tags="背景" id="NK0cSeMYXExBft4Ilqiq-80">
           <mxCell style="vsdxID=65560;edgeStyle=none;startArrow=none;endArrow=block;startSize=9;endSize=3;strokeWidth=2;strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;align=left;" edge="1" parent="1">
             <mxGeometry relative="1" as="geometry">
@@ -128,7 +133,7 @@
             <mxPoint x="64" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:14.11px;font-family:微软雅黑;color:#19191a;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;1.2语音识别&lt;/font&gt;&lt;/div&gt;" tags="背景" id="NK0cSeMYXExBft4Ilqiq-88">
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;br&gt;&lt;/div&gt;" tags="背景" id="NK0cSeMYXExBft4Ilqiq-88">
           <mxCell style="vsdxID=196610;edgeStyle=none;startArrow=none;endArrow=block;startSize=9;endSize=3;strokeWidth=2;strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;align=left;" edge="1" parent="1">
             <mxGeometry relative="1" as="geometry">
               <mxPoint x="4" as="offset" />
@@ -141,7 +146,12 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:14.11px;font-family:微软雅黑;color:#19191a;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;1.3位置触发&lt;/font&gt;&lt;/div&gt;" tags="背景" id="NK0cSeMYXExBft4Ilqiq-89">
+        <mxCell id="NK0cSeMYXExBft4Ilqiq-117" value="&lt;span style=&quot;color: rgb(25, 25, 26); font-family: 微软雅黑; font-size: 14.11px; text-align: left;&quot;&gt;1.2语音识别&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NK0cSeMYXExBft4Ilqiq-88">
+          <mxGeometry x="-0.0012" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;br&gt;&lt;/div&gt;" tags="背景" id="NK0cSeMYXExBft4Ilqiq-89">
           <mxCell style="vsdxID=196611;edgeStyle=none;startArrow=none;endArrow=block;startSize=9;endSize=3;strokeWidth=2;strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;align=left;" edge="1" parent="1">
             <mxGeometry relative="1" as="geometry">
               <mxPoint as="offset" />
@@ -154,7 +164,12 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:14.11px;font-family:微软雅黑;color:#19191a;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;1.4文字输入&lt;/font&gt;&lt;/div&gt;" tags="背景" id="NK0cSeMYXExBft4Ilqiq-90">
+        <mxCell id="NK0cSeMYXExBft4Ilqiq-119" value="&lt;span style=&quot;color: rgb(25, 25, 26); font-family: 微软雅黑; font-size: 14.11px; text-align: left;&quot;&gt;1.3位置触发&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NK0cSeMYXExBft4Ilqiq-89">
+          <mxGeometry x="0.0285" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;br&gt;&lt;/div&gt;" tags="背景" id="NK0cSeMYXExBft4Ilqiq-90">
           <mxCell style="vsdxID=196612;edgeStyle=none;startArrow=none;endArrow=block;startSize=9;endSize=3;strokeWidth=2;strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;align=left;" edge="1" parent="1">
             <mxGeometry relative="1" as="geometry">
               <mxPoint x="5" as="offset" />
@@ -167,6 +182,11 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
+        <mxCell id="NK0cSeMYXExBft4Ilqiq-120" value="&lt;span style=&quot;color: rgb(25, 25, 26); font-family: 微软雅黑; font-size: 14.11px; text-align: left;&quot;&gt;1.4文字输入&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NK0cSeMYXExBft4Ilqiq-90">
+          <mxGeometry x="0.0682" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;br&gt;&lt;/div&gt;" tags="背景" id="NK0cSeMYXExBft4Ilqiq-91">
           <mxCell style="vsdxID=196613;edgeStyle=none;startArrow=none;endArrow=block;startSize=9;endSize=3;strokeWidth=2;strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;align=left;" edge="1" parent="1">
             <mxGeometry relative="1" as="geometry">
