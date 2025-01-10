@@ -110,10 +110,10 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:14.11px;font-family:微软雅黑;color:#19191a;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;2.2多模态对齐处理&lt;/font&gt;&lt;/div&gt;" tags="背景" id="NK0cSeMYXExBft4Ilqiq-87">
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;br&gt;&lt;/div&gt;" tags="背景" id="NK0cSeMYXExBft4Ilqiq-87">
           <mxCell style="vsdxID=65582;edgeStyle=none;startArrow=none;endArrow=block;startSize=9;endSize=3;strokeWidth=2;strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;align=left;" edge="1" parent="1">
-            <mxGeometry relative="1" as="geometry">
-              <mxPoint x="73" y="1" as="offset" />
+            <mxGeometry x="-0.1183" y="71" relative="1" as="geometry">
+              <mxPoint as="offset" />
               <Array as="points">
                 <mxPoint x="758.93" y="339" />
                 <mxPoint x="758.93" y="396.27" />
@@ -123,6 +123,11 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
+        <mxCell id="NK0cSeMYXExBft4Ilqiq-114" value="&lt;span style=&quot;color: rgb(25, 25, 26); font-family: 微软雅黑; font-size: 14.11px; text-align: left;&quot;&gt;2.2多模态对齐处理&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NK0cSeMYXExBft4Ilqiq-87">
+          <mxGeometry x="-0.0873" y="7" relative="1" as="geometry">
+            <mxPoint x="64" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:14.11px;font-family:微软雅黑;color:#19191a;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;1.2语音识别&lt;/font&gt;&lt;/div&gt;" tags="背景" id="NK0cSeMYXExBft4Ilqiq-88">
           <mxCell style="vsdxID=196610;edgeStyle=none;startArrow=none;endArrow=block;startSize=9;endSize=3;strokeWidth=2;strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;align=left;" edge="1" parent="1">
             <mxGeometry relative="1" as="geometry">
@@ -162,7 +167,7 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:14.11px;font-family:微软雅黑;color:#19191a;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;3.2模型推理&lt;/font&gt;&lt;/div&gt;" tags="背景" id="NK0cSeMYXExBft4Ilqiq-91">
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;br&gt;&lt;/div&gt;" tags="背景" id="NK0cSeMYXExBft4Ilqiq-91">
           <mxCell style="vsdxID=196613;edgeStyle=none;startArrow=none;endArrow=block;startSize=9;endSize=3;strokeWidth=2;strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;align=left;" edge="1" parent="1">
             <mxGeometry relative="1" as="geometry">
               <mxPoint x="52" y="-1" as="offset" />
@@ -340,6 +345,9 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
+        <mxCell id="NK0cSeMYXExBft4Ilqiq-115" value="&lt;span style=&quot;color: rgb(25, 25, 26); font-family: 微软雅黑; font-size: 14.11px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;3.2模型推理&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="760" y="560" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
