@@ -222,10 +222,10 @@
         </UserObject>
         <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:18.14px;font-family:微软雅黑;color:#19191a;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;&lt;b&gt;User&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" tags="背景" id="NK0cSeMYXExBft4Ilqiq-95">
           <mxCell style="verticalAlign=middle;align=center;overflow=width;vsdxID=196618;fillColor=none;gradientColor=none;shape=stencil(UzV2Ls5ILEhVNTIoLinKz04tz0wpyVA1dlE1MsrMy0gtyiwBslSNXVWNndPyi1LTi/JL81Ig/IJEkEoQKze/DGRCBUSfAUiHkUElMs8NojAnMw9JoaEB2UphfKyKyVaKonBYegrIQEQbkIMep0AhSHowdgUA);strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-            <mxGeometry x="1457" y="126" width="41" height="28" as="geometry" />
+            <mxGeometry x="1457" y="133" width="41" height="28" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:14.11px;font-family:微软雅黑;color:#19191a;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;1.1Photo recognition&lt;/font&gt;&lt;/div&gt;" tags="背景" id="NK0cSeMYXExBft4Ilqiq-96">
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;br&gt;&lt;/div&gt;" tags="背景" id="NK0cSeMYXExBft4Ilqiq-96">
           <mxCell style="vsdxID=196619;edgeStyle=none;startArrow=none;endArrow=block;startSize=9;endSize=3;strokeWidth=2;strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;align=left;" edge="1" parent="1">
             <mxGeometry relative="1" as="geometry">
               <mxPoint x="6" as="offset" />
@@ -238,10 +238,15 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:12.1px;font-family:微软雅黑;color:#19191a;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;2.1Text, Image, Voice, and Location Information Transmission&lt;/font&gt;&lt;/div&gt;" tags="背景" id="NK0cSeMYXExBft4Ilqiq-97">
+        <mxCell id="NK0cSeMYXExBft4Ilqiq-123" value="&lt;span style=&quot;color: rgb(25, 25, 26); font-family: 微软雅黑; font-size: 14.11px; text-align: left;&quot;&gt;1.1Photo recognition&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NK0cSeMYXExBft4Ilqiq-96">
+          <mxGeometry x="0.0319" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;br&gt;&lt;/div&gt;" tags="背景" id="NK0cSeMYXExBft4Ilqiq-97">
           <mxCell style="vsdxID=196620;edgeStyle=none;startArrow=none;endArrow=block;startSize=9;endSize=3;strokeWidth=2;strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;align=left;" edge="1" parent="1">
-            <mxGeometry relative="1" as="geometry">
-              <mxPoint x="-7" as="offset" />
+            <mxGeometry x="-0.0304" relative="1" as="geometry">
+              <mxPoint as="offset" />
               <Array as="points">
                 <mxPoint x="2047.62" y="282" />
                 <mxPoint x="2047.62" y="281.97" />
@@ -251,7 +256,12 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:12.1px;font-family:微软雅黑;color:#19191a;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;2.3Multimodal alignment results are uniformly returned&lt;/font&gt;&lt;/div&gt;" tags="背景" id="NK0cSeMYXExBft4Ilqiq-98">
+        <mxCell id="NK0cSeMYXExBft4Ilqiq-127" value="&lt;span style=&quot;color: rgb(25, 25, 26); font-family: 微软雅黑; font-size: 12.1px; text-align: left;&quot;&gt;2.1Text, Image, Voice, and Location Information Transmission&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NK0cSeMYXExBft4Ilqiq-97">
+          <mxGeometry x="-0.0363" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;br&gt;&lt;/div&gt;" tags="背景" id="NK0cSeMYXExBft4Ilqiq-98">
           <mxCell style="vsdxID=196621;edgeStyle=none;dashed=1;startArrow=none;endArrow=block;startSize=9;endSize=3;strokeWidth=2;strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;align=left;" edge="1" parent="1">
             <mxGeometry relative="1" as="geometry">
               <mxPoint x="5" y="-1" as="offset" />
@@ -264,7 +274,12 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:14.11px;font-family:微软雅黑;color:#19191a;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;3.1Alignment results&lt;/font&gt;&lt;/div&gt;" tags="背景" id="NK0cSeMYXExBft4Ilqiq-99">
+        <mxCell id="NK0cSeMYXExBft4Ilqiq-128" value="&lt;span style=&quot;color: rgb(25, 25, 26); font-family: 微软雅黑; font-size: 12.1px; text-align: left;&quot;&gt;2.3Multimodal alignment results are uniformly returned&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NK0cSeMYXExBft4Ilqiq-98">
+          <mxGeometry x="0.0497" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;br&gt;&lt;/div&gt;" tags="背景" id="NK0cSeMYXExBft4Ilqiq-99">
           <mxCell style="vsdxID=196622;edgeStyle=none;startArrow=none;endArrow=block;startSize=9;endSize=3;strokeWidth=2;strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;align=left;" edge="1" parent="1">
             <mxGeometry relative="1" as="geometry">
               <mxPoint x="6" as="offset" />
@@ -277,6 +292,11 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
+        <mxCell id="NK0cSeMYXExBft4Ilqiq-129" value="&lt;span style=&quot;color: rgb(25, 25, 26); font-family: 微软雅黑; font-size: 14.11px; text-align: left;&quot;&gt;3.1Alignment results&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NK0cSeMYXExBft4Ilqiq-99">
+          <mxGeometry x="-0.0603" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <UserObject label="" tags="背景" id="NK0cSeMYXExBft4Ilqiq-100">
           <mxCell style="vsdxID=196623;fillColor=#dcdee0;gradientColor=none;shape=stencil(7ZVbEoIwDEVX099OSXjot499MILSEYEpoLB7wRZoo7gAx782uSknt5nCcFdncZUyEHWjymv6kEmTMdwzAFlkqZLNsGJ4YLg7lyq9qLItEr2v4lE5rm7lfTyh03VeyMNorALR64h47Y5anMvCEm+QI66LT63SR3s6uQUeTHLP1osOzNeFCfQmIDj6RoJUgpMkCtYRF7lh2HIIvkEuBd5cEYYupt0IJZ84bW8I+mfQN+OJnIJG3I9c0oUBHHcnRrsTdBW44o7L6FpJjaeAxEfrKuGtAxd4vmvLE/wwYMNimeOzzPM58x/v/3j/1njrF97O0Sd9COnfAR6e);strokeColor=#000000;strokeWidth=2;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
             <mxGeometry x="1465" y="191" width="25" height="561" as="geometry" />
@@ -292,20 +312,24 @@
             <mxGeometry x="2269" y="189" width="25" height="516" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:14.11px;font-family:微软雅黑;color:#19191a;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;3.3Generate interpretation content&lt;/font&gt;&lt;/div&gt;" tags="背景" id="NK0cSeMYXExBft4Ilqiq-103">
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;br&gt;&lt;/div&gt;" tags="背景" id="NK0cSeMYXExBft4Ilqiq-103">
           <mxCell style="vsdxID=196626;edgeStyle=none;dashed=1;startArrow=none;endArrow=block;startSize=9;endSize=3;strokeWidth=2;strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;align=left;" edge="1" parent="1">
             <mxGeometry relative="1" as="geometry">
               <mxPoint x="101" y="-2" as="offset" />
               <Array as="points">
                 <mxPoint x="1879.97" y="639" />
-                <mxPoint x="1879.97" y="643.05" />
               </Array>
               <mxPoint x="2269" y="639" as="sourcePoint" />
               <mxPoint x="1491" y="643" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:14.11px;font-family:微软雅黑;color:#19191a;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;2.2Multimodal alignment processing&lt;/font&gt;&lt;/div&gt;" tags="背景" id="NK0cSeMYXExBft4Ilqiq-104">
+        <mxCell id="NK0cSeMYXExBft4Ilqiq-131" value="&lt;span style=&quot;color: rgb(25, 25, 26); font-family: 微软雅黑; font-size: 14.11px; text-align: left;&quot;&gt;3.3Generate interpretation content&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NK0cSeMYXExBft4Ilqiq-103">
+          <mxGeometry x="-0.048" y="1" relative="1" as="geometry">
+            <mxPoint x="41" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;br&gt;&lt;/div&gt;" tags="背景" id="NK0cSeMYXExBft4Ilqiq-104">
           <mxCell style="vsdxID=196627;edgeStyle=none;startArrow=none;endArrow=block;startSize=9;endSize=3;strokeWidth=2;strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;align=left;" edge="1" parent="1">
             <mxGeometry relative="1" as="geometry">
               <mxPoint x="123" y="5" as="offset" />
@@ -318,7 +342,7 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:14.11px;font-family:微软雅黑;color:#19191a;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;1.2Speech recognition&lt;/font&gt;&lt;/div&gt;" tags="背景" id="NK0cSeMYXExBft4Ilqiq-105">
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;br&gt;&lt;/div&gt;" tags="背景" id="NK0cSeMYXExBft4Ilqiq-105">
           <mxCell style="vsdxID=196628;edgeStyle=none;startArrow=none;endArrow=block;startSize=9;endSize=3;strokeWidth=2;strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;align=left;" edge="1" parent="1">
             <mxGeometry relative="1" as="geometry">
               <mxPoint x="5" as="offset" />
@@ -331,7 +355,12 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:14.11px;font-family:微软雅黑;color:#19191a;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;1.3Location-triggered&lt;/font&gt;&lt;/div&gt;" tags="背景" id="NK0cSeMYXExBft4Ilqiq-106">
+        <mxCell id="NK0cSeMYXExBft4Ilqiq-124" value="&lt;span style=&quot;color: rgb(25, 25, 26); font-family: 微软雅黑; font-size: 14.11px; text-align: left;&quot;&gt;1.2Speech recognition&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NK0cSeMYXExBft4Ilqiq-105">
+          <mxGeometry x="0.0096" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;br&gt;&lt;/div&gt;" tags="背景" id="NK0cSeMYXExBft4Ilqiq-106">
           <mxCell style="vsdxID=196629;edgeStyle=none;startArrow=none;endArrow=block;startSize=9;endSize=3;strokeWidth=2;strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;align=left;" edge="1" parent="1">
             <mxGeometry relative="1" as="geometry">
               <mxPoint x="1" as="offset" />
@@ -344,7 +373,12 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:14.11px;font-family:微软雅黑;color:#19191a;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;1.4Text input&lt;/font&gt;&lt;/div&gt;" tags="背景" id="NK0cSeMYXExBft4Ilqiq-107">
+        <mxCell id="NK0cSeMYXExBft4Ilqiq-125" value="&lt;span style=&quot;color: rgb(25, 25, 26); font-family: 微软雅黑; font-size: 14.11px; text-align: left;&quot;&gt;1.3Location-triggered&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NK0cSeMYXExBft4Ilqiq-106">
+          <mxGeometry x="0.0011" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;br&gt;&lt;/div&gt;" tags="背景" id="NK0cSeMYXExBft4Ilqiq-107">
           <mxCell style="vsdxID=196630;edgeStyle=none;startArrow=none;endArrow=block;startSize=9;endSize=3;strokeWidth=2;strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;align=left;" edge="1" parent="1">
             <mxGeometry relative="1" as="geometry">
               <mxPoint x="6" as="offset" />
@@ -357,7 +391,12 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:14.11px;font-family:微软雅黑;color:#19191a;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;3.2Model inference&lt;/font&gt;&lt;/div&gt;" tags="背景" id="NK0cSeMYXExBft4Ilqiq-108">
+        <mxCell id="NK0cSeMYXExBft4Ilqiq-126" value="&lt;span style=&quot;color: rgb(25, 25, 26); font-family: 微软雅黑; font-size: 14.11px; text-align: left;&quot;&gt;1.4Text input&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NK0cSeMYXExBft4Ilqiq-107">
+          <mxGeometry x="0.0268" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;br&gt;&lt;/div&gt;" tags="背景" id="NK0cSeMYXExBft4Ilqiq-108">
           <mxCell style="vsdxID=196631;edgeStyle=none;startArrow=none;endArrow=block;startSize=9;endSize=3;strokeWidth=2;strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;align=left;" edge="1" parent="1">
             <mxGeometry relative="1" as="geometry">
               <mxPoint x="52" y="-1" as="offset" />
@@ -372,6 +411,12 @@
         </UserObject>
         <mxCell id="NK0cSeMYXExBft4Ilqiq-115" value="&lt;span style=&quot;color: rgb(25, 25, 26); font-family: 微软雅黑; font-size: 14.11px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;3.2模型推理&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="760" y="560" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NK0cSeMYXExBft4Ilqiq-132" value="&lt;span style=&quot;color: rgb(25, 25, 26); font-family: 微软雅黑; font-size: 14.11px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;2.2Multimodal alignment processing&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2330" y="340" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NK0cSeMYXExBft4Ilqiq-133" value="&lt;span style=&quot;color: rgb(25, 25, 26); font-family: 微软雅黑; font-size: 14.11px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;3.2Model inference&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2338" y="560" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
